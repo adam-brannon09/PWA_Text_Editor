@@ -1,2 +1,1 @@
-# PWA_Text_Editor
-PWA Text Editor
+# Text Editor Starter Code
