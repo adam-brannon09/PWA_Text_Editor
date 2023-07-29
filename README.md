@@ -44,7 +44,7 @@ To install and use this repo, please follow the below instructions:
 
 ## Usage
 
-To use the web based version no installation is required. Simply navigate to the deployed application [URL]() and begin using the app in your browser. J.A.T.E. is a Progressive Web App (PWA) and can be installed locally on any device. Simply click the install button in the address bar of your browser or in the top left corner of the page to install the application on your device.
+To use the web based version no installation is required. Simply navigate to the deployed application [URL](https://rocky-lake-08346-97f05045468c.herokuapp.com/) and begin using the app in your browser. J.A.T.E. is a Progressive Web App (PWA) and can be installed locally on any device. Simply click the install button in the address bar of your browser or in the top left corner of the page to install the application on your device.
 
 
 ## Technologies
@@ -65,7 +65,7 @@ To use the web based version no installation is required. Simply navigate to the
           
           
 
-Follow me to the [Deployed Application]()
+Follow me to the [Deployed Application](https://rocky-lake-08346-97f05045468c.herokuapp.com/)
 
 
 ## Contributors
